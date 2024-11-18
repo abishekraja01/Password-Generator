@@ -1,5 +1,5 @@
 # Password-Generator
-Password Generator
+
 This is a Password Generator application written in Java, designed to create secure and customizable passwords. The project features an interactive command-line interface where users can specify preferences for password complexity, such as length, inclusion of special characters, numbers, uppercase, and lowercase letters.
 
 Features:
